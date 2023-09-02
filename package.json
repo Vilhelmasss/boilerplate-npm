@@ -1,10 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Vilhelmas Stankevicius",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Vilhelmas Stankevicius",
+	
 
 	"scripts": {
 		"start": "node server.js"
